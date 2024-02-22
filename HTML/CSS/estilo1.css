@@ -1,0 +1,28 @@
+*{
+    margin: 20px;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    text-decoration: wavy;
+    font-style: italic;
+    text-transform: uppercase;
+    padding: 10px;
+    
+}
+
+p{
+    color: rgb(223, 10, 127);
+    text-align: justify;
+    background-color: white;
+    
+}
+img{
+    width: 40%;
+    
+}
